@@ -13,7 +13,7 @@ Hi! I'm Jin Wu (吴 进). a Phd. student at East China Normal University, Shangh
 My main research area lies in studying the **Intelligent Education**, especially **the Cognitive diagnostics and Automated assessment of student abilities**. 
 
 
-📝 Publications
+🚀 Publications
 ======
 <sub>\* means equal contribution. See the [Publications](/publications/) page for more details. </sub>
 
@@ -22,10 +22,10 @@ Le, Sun, **Jin Wu**.
 * [A federated learning and blockchain framework for physiological signal classification based on continual learning](https://www.sciencedirect.com/science/article/abs/pii/S0020025523001767).\\
 Le, Sun, **Jin Wu**, Yang Xu, Yanchun Zhang.
 * [A micro neural network for healthcare sensor data stream classification in sustainable and smart cities](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2022/4270295).\\
-**Jin Wu**, Le Sun, Dandan Peng, Siuly Siuly
+**Jin Wu**, Le Sun, Dandan Peng, Siuly Siuly.
 
 
-🎖 Selected Awards
+🏅️ Selected Awards
 ======
 
 * National Scholarship for Postgraduates, 2022.
