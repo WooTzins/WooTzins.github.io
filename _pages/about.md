@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jin Wu (吴 进). a Phd. student at East China Normal University, Shanghai, China. Before starting Ph.D., I completed my Master's degree at School of Software in Nanjing University of Information Science & Technology, majoring in **Data mining**, **Intelligent medicine** and **Continual learning**.
+Hi! I'm Jin Wu (吴 进). a Phd. Candidate student at East China Normal University, Shanghai, China. Before starting Ph.D., I completed my Master's degree at School of Software in Nanjing University of Information Science & Technology, majoring in **Data mining**, **Intelligent medicine** and **Continual learning**.
 
-My main research area lies in studying the **Intelligent Education**, especially **the Cognitive diagnostics and Automated assessment of student abilities**. 
+My main research area lies in studying the **Intelligent Education**, especially **Cognitive diagnostics** and **Automated assessment of student abilities**. 
 
 
 🚀 Publications
