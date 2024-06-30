@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bohang Zhang's Homepage (张博航)"
+title                    : "Jin Wu's Homepage ( 吴 进 )"
 title_separator          : "-"
-name                     : &name "Bohang Zhang"
-description              : &description "Phd. student at Peking University"
-url                      : https://zbh2047.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jin Wu"
+description              : &description "Phd. Candidate student at East China Normal University"
+url                      : https://awakenpurity.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zbh2047/zbh2047.github.io"
+repository               : "awakenpurity.github.io/"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &bohang_zhang
+  username               : &jin_wu
 facebook:
   username               :
   app_id                 :
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bohang Zhang"
+  name             : "Jin Wu"
   avatar           : "profile.jpg"
-  bio              : "A Phd. student at Peking University"
-  location         : "Beijing, China"
+  bio              : "A Phd. Candidate student at East China Normal University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=hJgT4tYAAAAJ"
-  wechat           : "/images/wechat.jpg"
-  email            : "zhangbohang@pku.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Bohang-Zhang/"
+  googlescholar    : 
+  wechat           : 
+  email            : "cs.jinwu@outlook.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zbh2047"
+  github           : "awakenpurity"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhangbohang"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "bohang_zhang"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
