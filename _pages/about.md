@@ -39,4 +39,4 @@ Le, Sun, **Jin Wu**, Yang Xu, Yanchun Zhang.
 * Triple A postgraduate Student, Nanjing University of Information Science & Technology, 2022 & 2023.  
   三号研究下, 南京信息工程大学, 2022 & 2023.
 * National Scholarship for Postgraduates, 2022.  
-  国家奖学金, 2022.
+  研究生国家奖学金, 2022.
