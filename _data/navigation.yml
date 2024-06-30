@@ -6,11 +6,11 @@ main:
   - title: "Publications"
     url: /publications/
         
-  - title: "Misc"
-    url: /misc/
+  # - title: "Blogs"
+  #   url: /misc/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
           
-  - title: "中文"
-    url: /chinese/
+  # - title: "中文"
+  #   url: /chinese/
