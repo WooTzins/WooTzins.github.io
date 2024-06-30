@@ -37,6 +37,6 @@ Le, Sun, **Jin Wu**, Yang Xu, Yanchun Zhang.
 * First Prize Scholarship, Nanjing University of Information Science & Technology, 2022 & 2023.  
   学业奖学金一等奖, 南京信息工程大学, 2022 & 2023.
 * Triple A postgraduate Student, Nanjing University of Information Science & Technology, 2022 & 2023.  
-  三号研究下, 南京信息工程大学, 2022 & 2023.
+  三好研究生, 南京信息工程大学, 2022 & 2023.
 * National Scholarship for Postgraduates, 2022.  
   研究生国家奖学金, 2022.
