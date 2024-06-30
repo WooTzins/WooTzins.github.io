@@ -28,9 +28,15 @@ Le, Sun, **Jin Wu**, Yang Xu, Yanchun Zhang.
 🏅️ Selected Awards
 ======
 
-* Interdisciplinary Research Project of the School of Computer Science and Technology, East China Normal University, **First Principal Investigator**, 2024.
-* Doctoral Research Innovation Fund of the School of Computer Science and Technology, East China Normal University, **First Principal Investigator**, 2024.
+* Interdisciplinary Research Project of the School of Computer Science and Technology, East China Normal University, **Leader**, 2024.
+  计算机科学与技术学院学科交叉研究项目, 华东师范大学, 负责人, 2024.
+* Doctoral Research Innovation Fund of the School of Computer Science and Technology, East China Normal University, **Leader**, 2024.
+  计算机科学与技术学院博士生科研创新基金项目, 华东师范大学, 负责人, 2024.
 * Outstanding Graduate, Nanjing University of Information Science & Technology, 2023.
+  优秀毕业生, 南京信息工程大学, 2023.
 * First Prize Scholarship, Nanjing University of Information Science & Technology, 2022 & 2023.
+  学业奖学金一等奖, 南京信息工程大学, 2022 & 2023.
 * Triple A postgraduate Student, Nanjing University of Information Science & Technology, 2022 & 2023.
+  三号研究下, 南京信息工程大学, 2022 & 2023.
 * National Scholarship for Postgraduates, 2022.
+  国家奖学金, 2022.
