@@ -28,6 +28,7 @@ Le, Sun, **Jin Wu**, Yang Xu, Yanchun Zhang.
 🏅️ Selected Awards
 ======
 
+* Outstanding Graduate, Nanjing University of Information Science & Technology, 2023.
+* First Prize Scholarship, Nanjing University of Information Science & Technology, 2022 & 2023.
+* Triple A postgraduate Student, Nanjing University of Information Science & Technology, 2022 & 2023.
 * National Scholarship for Postgraduates, 2022.
-* First Prize Scholarship, Nanjing University of Information Science & Technology.
-* Excellent Graduate Student, Nanjing University of Information Science & Technology.
