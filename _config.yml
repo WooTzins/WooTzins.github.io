@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jin Wu's Homepage ( 吴 进 )"
 title_separator          : "-"
 name                     : &name "Jin Wu"
-description              : &description "Phd. Candidate student at East China Normal University"
+description              : &description "Ph.D. Candidate student at East China Normal University"
 url                      : https://awakenpurity.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "awakenpurity.github.io/"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jin Wu"
   avatar           : "profile.jpg"
-  bio              : "A Phd. Candidate student at East China Normal University"
+  bio              : "A Ph.D. Candidate student at East China Normal University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
