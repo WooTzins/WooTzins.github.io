@@ -15,14 +15,16 @@ Currently, my main research area lies in studying the **Intelligent Education**,
 
 🚀 Publications
 ======
-<sub>\* means equal contribution. See the [Publications](/publications/) page for more details. </sub>
+<sub>\* means equal contribution. </sub>
 
 * [A scalable and transferable federated learning system for classifying healthcare sensor data](https://ieeexplore.ieee.org/abstract/document/9765749/).\\
-  A Scalable and Transferable Federated Learning System for Classifying Healthcare Sensor Data. \\
+  IEEE Journal of Biomedical and Health Informatics. \\
 Le, Sun, **Jin Wu**.
 * [A federated learning and blockchain framework for physiological signal classification based on continual learning](https://www.sciencedirect.com/science/article/abs/pii/S0020025523001767).\\
+  Information Sciences. \\
 Le, Sun, **Jin Wu**, Yang Xu, Yanchun Zhang.
 * [A micro neural network for healthcare sensor data stream classification in sustainable and smart cities](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2022/4270295).\\
+  Computational Intelligence and Neuroscience. \\
 **Jin Wu**, Le Sun, Dandan Peng, Siuly Siuly.
 
 
