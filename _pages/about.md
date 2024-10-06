@@ -13,7 +13,7 @@ Hi! I'm Jin Wu, a Ph.D. Candidate student at East China Normal University, Shang
 Currently, my main research area lies in studying the **Intelligent Education**, especially **Cognitive diagnosis**, **Meta learning** and **Automated Essay Scoring (AES)**. 
 
 
-🚀 Publications
+📄 Publications
 ======
 <sub>\* means equal contribution. </sub>
  
@@ -30,7 +30,7 @@ Le, Sun, **Jin Wu**, Yang Xu, Yanchun Zhang.
   吴进; 孙乐; 赵琼; 寇振媛.  
 
 
-🏅️ Selected Awards
+🔝 Selected Awards
 ======
 
 * Interdisciplinary Research Project of the School of Computer Science and Technology, East China Normal University, **Leader**, 2024.  
