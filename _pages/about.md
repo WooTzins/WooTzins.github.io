@@ -26,7 +26,7 @@ Le, Sun, **Jin Wu**, Yang Xu, Yanchun Zhang.
 * [A micro neural network for healthcare sensor data stream classification in sustainable and smart cities](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2022/4270295).\\
   Computational Intelligence and Neuroscience. \\
 **Jin Wu**, Le Sun, Dandan Peng, Siuly Siuly.
-* 吴进; 孙乐; 赵琼; 寇振媛. 发明专利. 基于持续深度学习的ECG数据分类方法[./files/CoT_Slides.pdf]. 已授权. 专利号: CN113171102A.
+* 吴进; 孙乐; 赵琼; 寇振媛. 发明专利. [基于持续深度学习的ECG数据分类方法](/files/CoT_Slides.pdf). 已授权. 专利号: CN113171102A.
 
 
 🏅️ Selected Awards
