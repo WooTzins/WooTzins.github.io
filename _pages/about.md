@@ -49,4 +49,4 @@ Le, Sun, **Jin Wu**, Yang Xu, Yanchun Zhang.
   
 💬 Invited Talks
 ======
-* The Overview of Cognitive Diagnosis: [slide](./files/24-10-10-认知诊断综述.pdf)
+* The Overview of Cognitive Diagnosis: [[slide](./files/Cognitive_Diagnosis_Review.pdf)]
