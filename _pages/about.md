@@ -45,3 +45,8 @@ Le, Sun, **Jin Wu**, Yang Xu, Yanchun Zhang.
   三好研究生, 南京信息工程大学, 2022 & 2023.
 * National Scholarship for Postgraduates, 2022.  
   研究生国家奖学金, 2022.
+
+  
+💬 Invited Talks
+======
+* The Overview of Cognitive Diagnosis: [slide](./files/24-10-10-认知诊断综述.pdf)
