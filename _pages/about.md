@@ -17,10 +17,10 @@ Currently, my main research area lies in studying the **Intelligent Education**,
 ======
 <sub>\* means equal contribution. </sub>
 
-* [An Interpretable Polytomous Cognitive Diagnosis Framework for Predicting Examinee Performance](10.1016/j.ipm.2024.103913).\\
+* [An Interpretable Polytomous Cognitive Diagnosis Framework for Predicting Examinee Performance](https://10.1016/j.ipm.2024.103913).\\
   Journal of Information Processing and Management (IPM). 2024. \\
   Xiaoyu Li, Shaoyang Guo, **Jin Wu**, Chanjin Zheng.  
-* [Assessing Learning Outcomes with Interpretable Learner Models](10.52305/RUIG5131#Chapter6).\\
+* [Assessing Learning Outcomes with Interpretable Learner Models](https://10.52305/RUIG5131#Chapter6).\\
   In book: Enhancing Educational Practices: Strategies for Assessing and Improving Learning. 2024.\\
   Xinyun Wang, **Jin Wu**, Jicong Duan, Bao-Min Duan, Yuang Wei, Yuan-Hao Jiang, Zi-Wei Chen.  
 * [A Federated Learning and Blockchain Framework for Physiological Signal Classification Based on Continual Learning](https://www.sciencedirect.com/science/article/abs/pii/S0020025523001767).\\
