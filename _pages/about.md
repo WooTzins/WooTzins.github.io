@@ -18,19 +18,20 @@ Currently, my main research area lies in studying the **Intelligent Education**,
 <sub>\* means equal contribution. </sub>
 
 * [An Interpretable Polytomous Cognitive Diagnosis Framework for Predicting Examinee Performance](10.1016/j.ipm.2024.103913).\\
-Xiaoyu Li, Shaoyang Guo, **Jin Wu**, Chanjin Zheng. 2024. \\
+  Journal of Information Processing and Management \\
+  Xiaoyu Li, Shaoyang Guo, **Jin Wu**, Chanjin Zheng. 2024. 
 * [Assessing Learning Outcomes with Interpretable Learner Models](10.52305/RUIG5131#Chapter6).\\
-In book: Enhancing Educational Practices: Strategies for Assessing and Improving Learning.\\
-Xinyun Wang, **Jin Wu**, Jicong Duan, Bao-Min Duan, Yuang Wei, Yuan-Hao Jiang, Zi-Wei Chen. 2024. \\
+  In book: Enhancing Educational Practices: Strategies for Assessing and Improving Learning.\\
+  Xinyun Wang, **Jin Wu**, Jicong Duan, Bao-Min Duan, Yuang Wei, Yuan-Hao Jiang, Zi-Wei Chen. 2024. 
 * [A Federated Learning and Blockchain Framework for Physiological Signal Classification Based on Continual Learning](https://www.sciencedirect.com/science/article/abs/pii/S0020025523001767).\\
   Information Sciences (INS). 2023\\
-Le, Sun, **Jin Wu**, Yang Xu, Yanchun Zhang.
+  Le, Sun, **Jin Wu**, Yang Xu, Yanchun Zhang.
 * [A Scalable and Transferable Federated Learning System for Classifying Healthcare Sensor Data](https://ieeexplore.ieee.org/abstract/document/9765749/).\\
   IEEE Journal of Biomedical and Health Informatics (JBHI). 2022. \\
-Le, Sun, **Jin Wu**. 2022.
+  Le, Sun, **Jin Wu**. 2022.
 * [A Micro Neural Network for Healthcare Sensor Data Stream Classification in Sustainable and Smart Cities](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2022/4270295). 2022.\\
   Computational Intelligence and Neuroscience. \\
-**Jin Wu**, Le Sun, Dandan Peng, Siuly Siuly.
+  **Jin Wu**, Le Sun, Dandan Peng, Siuly Siuly.
 * [基于持续深度学习的ECG数据分类方法](/files/patent_2021103769487.pdf). 发明专利. 已授权. 专利号: CN113171102A. \\
   吴进; 孙乐; 赵琼; 寇振媛.  
 
