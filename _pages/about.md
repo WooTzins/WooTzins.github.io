@@ -55,8 +55,8 @@ Currently, my main research area lies in studying the **Intelligent Education**,
   
 💬 Invited Talks
 ======
-* A Cognitive Diagnosis Framework for Student Ability Assessment Based on Meta-Continual Learning, In [EITCE 2024](https://www.eitce.org/).
-  (Best Oral Award, Only 2 people)
+* A Cognitive Diagnosis Framework for Student Ability Assessment Based on Meta-Continual Learning, In [EITCE 2024](/files/EITCE_2024.pdf).
+  (<font color="red">[Best Oral Award, Only 2 people]</font>)
 * The Review of Attention Mechanism: From Attention to Transformer, Bert. [[slide](/files/attention.pdf)]
 * The Overview of Cognitive Diagnosis. [[slide](/files/Cognitive_Diagnosis_Review.pdf)]
 
