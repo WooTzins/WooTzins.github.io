@@ -63,6 +63,6 @@ Currently, my main research area lies in studying the **Intelligent Education**,
 
 🖊️ Professional Services
 ======
-* Reviewer for IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025).
-* Reviewer for Journal of Grid Computing.
-* Reviewer for Scientific Reports.
+* Reviewer for **IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025)**.
+* Reviewer for **Journal of Grid Computing**.
+* Reviewer for **Scientific Reports**.
