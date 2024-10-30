@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Blog"
+title: "🧑🏻‍💻 Blog"
 permalink: /blog/
 author_profile: true
 ---
 
-🧑🏻‍💻 Blog
-======
 
 ## 2024
 
