@@ -1,5 +1,5 @@
 ---
-title: "DeBug: pydot failed to call graphviz"
+title: "DeBug: Pydot failed to call graphviz"
 collection: talks
 type: "DeBug"
 permalink: /talks/2024-10-30-pydot-pydotplus
