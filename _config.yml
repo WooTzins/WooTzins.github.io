@@ -180,8 +180,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  logs:
-    output: true
 
 
 # Defaults
