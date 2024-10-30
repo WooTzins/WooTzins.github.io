@@ -8,7 +8,7 @@ location: "Shanghai, China"
 
 ---
 
-一般情况下，遇到`pydot failed to call graphviz`, `please pip install pydot or graphviz`这类问题问题的解决方案：  
+一般情况下，遇到 `pydot failed to call graphviz`, `please pip install pydot or graphviz` 这类问题问题的解决方案：  
 
 ### 方案 ①
 `pip uninstall pydot`   
