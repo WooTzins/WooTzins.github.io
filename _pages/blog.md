@@ -5,10 +5,10 @@ permalink: /blog/
 author_profile: true
 ---
 
-🎊 News
+🧑🏻‍💻 Blog
 ======
 
-* 2024.06 获得<font color="blue"> 华东师范大学2024年度计算机科学与技术学院学科交叉研究项目</font> \\
-  (2024.06 - 2025.06).
-* 2024.06 获得<font color="blue"> 华东师范大学2024年度计算机科学与技术学院博士生科研创新基金项目</font> \\
-  (2024.06 - 2024.10).
+## 2024
+Oct 30 [Pydot与Graphviz的安装](./blogs/Pydot_Graphviz.md)
+
+Oct 16 XXXX
