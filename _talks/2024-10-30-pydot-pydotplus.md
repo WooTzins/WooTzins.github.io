@@ -26,8 +26,6 @@ location: "Shanghai, China"
 紧接着，打开 `pydot` 文件夹中的 `graphviz.py` 文件，找到 `find_graphviz()` 函数。将 `#Method 3 (Windows only)` 这行之后的代码替换为下列代码:
 
 ```python
-# Method 3 (Windows only)
-#
 if os.sys.platform == 'win32':
     # Try and work out the equivalent of "C:\Program Files" on this
     # machine (might be on drive D:, or in a different language)
@@ -40,21 +38,16 @@ if os.sys.platform == 'win32':
         # Just in case, try the default...
         path = r"D:\Graphviz\bin"
     progs = __find_executables(path)
- 
     if progs is not None:
         # print "Used default install location"
         return progs
- 
 for path in (
         '/usr/bin', '/usr/local/bin',
         '/opt/bin', '/sw/bin', '/usr/share',
         '/Applications/Graphviz.app/Contents/MacOS/'):
     progs = __find_executables(path)
- 
     if progs is not None:
         # print "Used path"
         return progs
-# Failed to find GraphViz
-#
- 
 return None
+```
