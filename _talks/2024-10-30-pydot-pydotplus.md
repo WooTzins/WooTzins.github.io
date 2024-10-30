@@ -2,7 +2,7 @@
 title: "DeBug: pydot failed to call graphviz"
 collection: talks
 type: "DeBug"
-permalink: /talks/2024-10-30-pydot-pydotplus.md
+permalink: /talks/2024-10-30-pydot-pydotplus
 date: 2024-10-30
 location: "Shanghai, China"
 
