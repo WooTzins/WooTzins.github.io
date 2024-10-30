@@ -12,6 +12,14 @@ Hi! I'm Jin Wu, a Ph.D. Candidate student at East China Normal University, Shang
 
 Currently, my main research area lies in studying the **Intelligent Education**, especially **Cognitive Diagnosis**, **Continual Learning** and **Automated Essay Scoring (AES)**. 
 
+🎊 News
+======
+
+* 2024.06 获得<font color="blue"> 华东师范大学2024年度计算机科学与技术学院学科交叉研究项目</font> \\
+  (2024.06 - 2025.06).
+* 2024.06 获得<font color="blue"> 华东师范大学2024年度计算机科学与技术学院博士生科研创新基金项目</font> \\
+  (2024.06 - 2024.10).
+
 
 📄 Publications
 ======
