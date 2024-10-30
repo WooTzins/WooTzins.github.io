@@ -79,5 +79,9 @@ Currently, my main research area lies in studying the **Intelligent Education**,
 <center><sub>Visitor distribution </sub></center>
 
 <center>
-<a href="https://clustrmaps.com/site/1c1ya"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=2mxLwMVMrKf2BSMPp4oBVkOUXHvYdciz_cCmTTPn7Nk&cl=ffffff" /></a>
+  <a href="https://clustrmaps.com/site/1c1ya" title="Visit tracker">
+    <img src="//www.clustrmaps.com/map_v2.png?d=2mxLwMVMrKf2BSMPp4oBVkOUXHvYdciz_cCmTTPn7Nk&cl=ffffff" 
+         style="width: 200px; height: auto;" alt="Visit tracker"/>
+  </a>
 </center>
+
