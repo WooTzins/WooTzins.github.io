@@ -58,4 +58,3 @@ for path in (
 #
  
 return None
-```
