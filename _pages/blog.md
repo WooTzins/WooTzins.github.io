@@ -9,6 +9,7 @@ author_profile: true
 ======
 
 ## 2024
-[Oct 30](#) &nbsp; [Pydot与Graphviz的安装](blogs/Pydot_Graphviz.md)
+<span style="color:grey;">Oct 30</span> &nbsp; <a href="/blogs/Pydot_Graphviz.md" style="color:black;">Pydot与Graphviz的安装</a>
+
 
 Oct 16 XXXX
