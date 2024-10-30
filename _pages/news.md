@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /news/
+permalink: /Blog/
 author_profile: true
 ---
 
