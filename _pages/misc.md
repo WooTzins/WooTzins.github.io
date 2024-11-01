@@ -1,5 +1,5 @@
 ---
-title: "Misc (not relevant to my research)"
+title: "Personal Interest (not relevant to my research)"
 permalink: /misc/
 author_profile: true
 ---
