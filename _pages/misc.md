@@ -1,9 +1,9 @@
 ---
-title: "Personal Interest (not relevant to my research)"
+title: ""
 permalink: /misc/
 author_profile: true
 ---
 
-Personal Interest
+Personal Interest (not relevant to my research)
 ======
 I will update this part slowly, it will be very interesting...
