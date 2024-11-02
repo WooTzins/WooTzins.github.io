@@ -1,5 +1,5 @@
 ---
-title: "VS Code: cann't find custom package"
+title: "VS Code: Cann't find custom package"
 collection: talks
 type: "DeBug"
 permalink: /talks/vs_code-path_problem
