@@ -10,15 +10,7 @@ redirect_from:
 
 Hi! I'm Jin Wu, a Ph.D. Candidate student at East China Normal University, Shanghai, China. Before starting Ph.D., I completed my Master's degree at School of Software in Nanjing University of Information Science & Technology, majoring in **Data Mining**, **Intelligent Medicine** and **Continual Learning**.
 
-Currently, my main research area lies in studying the **Intelligent Education**, especially **Cognitive Diagnosis**, **Continual Learning** and **Automated Essay Scoring (AES)**. 
-
-🎊 News
-======
-
-* 2024.06 获得<font color="blue"> 华东师范大学2024年度计算机科学与技术学院学科交叉研究项目</font> \\
-  (2024.06 - 2025.06).
-* 2024.06 获得<font color="blue"> 华东师范大学2024年度计算机科学与技术学院博士生科研创新基金项目</font> \\
-  (2024.06 - 2024.10).
+Currently, my main research area lies in studying the **Intelligent Education**, especially **Cognitive Diagnosis**, **Continual Learning** and **Automated Essay Scoring (AES)**.
 
 
 📄 Publications
@@ -47,9 +39,9 @@ Currently, my main research area lies in studying the **Intelligent Education**,
 🔝 Selected Awards
 ======
 
-* Interdisciplinary Research Project of the School of Computer Science and Technology, East China Normal University, **Leader**, 2024.  
-  计算机科学与技术学院学科交叉研究项目, 华东师范大学, 负责人, 2024.
-* Doctoral Research Innovation Fund of the School of Computer Science and Technology, East China Normal University, **Leader**, 2024.  
+* Interdisciplinary Research Project of the School of Computer Science and Technology, East China Normal University, **Leader**, (2024.06 - 2025.06).  
+  计算机科学与技术学院学科交叉研究项目, 华东师范大学, 负责人, 2024. 
+* Doctoral Research Innovation Fund of the School of Computer Science and Technology, East China Normal University, **Leader**, (2024.06 - 2024.10).  
   计算机科学与技术学院博士生科研创新基金项目, 华东师范大学, 负责人, 2024.
 * Outstanding Graduate, Nanjing University of Information Science & Technology, 2023.  
   优秀毕业生, 南京信息工程大学, 2023.
@@ -74,6 +66,7 @@ Currently, my main research area lies in studying the **Intelligent Education**,
 * Reviewer for **IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025)**.
 * Reviewer for **Journal of Grid Computing**.
 * Reviewer for **Scientific Reports**.
+* Reviewer for **Health Information Science and Systems**.
 
 ---
 <center><sub>Visitor distribution </sub></center>
