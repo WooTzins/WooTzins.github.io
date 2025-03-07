@@ -11,9 +11,9 @@ title                    : "Jin Wu's Homepage"
 title_separator          : "-"
 name                     : &name "Jin Wu"
 description              : &description "Ph.D. Candidate @ ECNU"
-url                      : https://awakenpurity.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wootzins.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "awakenpurity.github.io/"
+repository               : "wootzins.github.io/"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &jin_wu
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "AwakenPurity"
+  github           : "WooTzins"
   google_plus      :
   keybase          :
   instagram        :
