@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Jin Wu"
 excerpt: "The main page about me."
 author_profile: true
 redirect_from: 
