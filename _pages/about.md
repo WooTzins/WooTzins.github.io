@@ -21,11 +21,11 @@ Selected Awards
 * Doctoral Research Innovation Fund of the School of Computer Science and Technology, \\
   East China Normal University, **Leader**, (2024.06 - 2024.10).
 * Alibaba ModelScope "AI Empowers Education" Project, \\
-  [Team First Prize](./files/ALIBABA_MODELSCOPE_TEAM_PRIZE.pdf) (2025.04)
+  **[Team First Prize](./files/ALIBABA_MODELSCOPE_TEAM_PRIZE.pdf)** (2025.04)
   
 Related Talks
 ======
-* [Oral Presentation@EITCE 2024](https://www.eitce.org/ugfaldht), [(**<font color="red">Best Oral Award, Only 2 people</font>**)](/files/EITCE_2024.pdf)\\
+* **[Oral Presentation@EITCE 2024](https://www.eitce.org/ugfaldht)**, [(**<font color="red">Best Oral Award, Only 2 people</font>**)](/files/EITCE_2024.pdf)\\
   A Cognitive Diagnosis Framework for Student Ability Assessment Based on Meta-Continual Learning.
 
 
