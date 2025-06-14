@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jin Wu's Homepage"
+title                    : "Jin Wu"
 title_separator          : "-"
 name                     : &name "Jin Wu"
 description              : &description "Ph.D. Candidate @ ECNU"
