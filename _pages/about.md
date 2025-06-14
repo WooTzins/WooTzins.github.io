@@ -21,7 +21,7 @@ Selected Awards
   "Research on Adaptive Assessment Framework Driven by Cognitive Diagnosis"\\
   *East China Normal University* | *2024.06 - 2024.10* | *Project Leader*.
 * Alibaba ModelScope "AI Empowers Education" Project, \\
-  **[Team First Prize](./files/ALIBABA_MODELSCOPE_TEAM_PRIZE.pdf)** (2025.04)
+  **[Team First Prize](./files/ALIBABA_MODELSCOPE_TEAM_PRIZE.pdf)** | 2025.04
   
 Related Talks & Presentations
 ======
