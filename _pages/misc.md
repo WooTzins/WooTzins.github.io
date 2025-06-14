@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /misc/
+permalink: /publications/
 author_profile: true
 ---
 
