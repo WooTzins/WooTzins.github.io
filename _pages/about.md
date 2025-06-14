@@ -27,7 +27,7 @@ Related Talks
   A Cognitive Diagnosis Framework for Student Ability Assessment Based on Meta-Continual Learning.
 
 
-🖊️ Professional Services
+Professional Services
 ======
 * Reviewer for **IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025)**.
 * Reviewer for **Journal of Grid Computing**.
