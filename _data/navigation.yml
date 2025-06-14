@@ -3,11 +3,11 @@ main:
   - title: "About"
     url: /
     
-  - title: "Talks and Blogs"
-    url: /talks/  
+  # - title: "Talks and Blogs"
+  #   url: /talks/  
         
-  - title: "Personal Interest"
-    url: /misc/
+  - title: "Publications"
+    url: /publications/
     
   # - title: "CV"
   #   url: /cv/
