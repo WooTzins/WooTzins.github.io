@@ -15,9 +15,9 @@ Selected Awards
 ======
 
 * Interdisciplinary Research Project of the School of Computer Science and Technology. \\
-  East China Normal University | 2024.06 - 2025.06 | **Project Leader**.  
+  *East China Normal University* | *2024.06 - 2025.06* | ** *Project Leader* **.  
 * Doctoral Research Innovation Fund of the School of Computer Science and Technology. \\
-  East China Normal University | 2024.06 - 2024.10 | **Project Leader**.
+  *East China Normal University* | *2024.06 - 2024.10* | ** *Project Leader* **.
 * Alibaba ModelScope "AI Empowers Education" Project, \\
   **[Team First Prize](./files/ALIBABA_MODELSCOPE_TEAM_PRIZE.pdf)** (2025.04)
   
