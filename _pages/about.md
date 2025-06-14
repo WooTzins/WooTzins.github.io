@@ -23,7 +23,7 @@ Selected Awards
   
 Related Talks & Presentations
 ======
-* **[Oral Presentation@EITCE 2024](https://www.eitce.org/ugfaldht)**, [(**<font color="red">Best Oral Award, Only 2 people</font>**)](/files/EITCE_2024.pdf)\\
+* **[Oral Presentation@EITCE 2024](https://www.eitce.org/ugfaldht)**, [**<font color="red">Best Oral Award, Only 2 people</font>**](/files/EITCE_2024.pdf)\\
   A Cognitive Diagnosis Framework for Student Ability Assessment Based on Meta-Continual Learning.
 
 
