@@ -8,54 +8,43 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jin Wu, a Ph.D. Candidate student at East China Normal University, Shanghai, China. Before starting Ph.D., I completed my Master's degree at School of Software in Nanjing University of Information Science & Technology, majoring in **Continual Learning** and **Intelligent Medicine**.
+Hi! Welcom to my Homepage! I'm a Ph.D. Candidate student at East China Normal University, Shanghai, China. 
 
-Currently, my main research area lies in studying the **Intelligent Education**, especially **Cognitive Diagnosis and LLMs-Empowered Automated Essay Scoring**.
+Currently, My primary areas of interest in research are **Natural Language Processing**, **Computational Linguistics**, and **Intelligent Education**.
 
 
 📄 Publications
 ======
 <sub>\* means equal contribution. </sub>
 
-* [An Interpretable Polytomous Cognitive Diagnosis Framework for Predicting Examinee Performance](https://doi.org/10.1016/j.ipm.2024.103913).\\
+* An Interpretable Polytomous Cognitive Diagnosis Framework for Predicting Examinee Performance.\\
   Journal of Information Processing and Management (IPM). 2024. \\
   Xiaoyu Li, Shaoyang Guo, **Jin Wu**, Chanjin Zheng.  
-* [Assessing Learning Outcomes with Interpretable Learner Models](https://doi.org/10.52305/RUIG5131#Chapter6).\\
+* Assessing Learning Outcomes with Interpretable Learner Models.\\
   In book: Enhancing Educational Practices: Strategies for Assessing and Improving Learning. 2024.\\
   Xinyun Wang, **Jin Wu**, Jicong Duan, Bao-Min Duan, Yuang Wei, Yuan-Hao Jiang, Zi-Wei Chen.  
-* [A Federated Learning and Blockchain Framework for Physiological Signal Classification Based on Continual Learning](https://www.sciencedirect.com/science/article/abs/pii/S0020025523001767).\\
+* A Federated Learning and Blockchain Framework for Physiological Signal Classification Based on Continual Learning.\\
   Information Sciences (INS). 2023. \\
   Le, Sun, **Jin Wu**, Yang Xu, Yanchun Zhang. 
-* [A Scalable and Transferable Federated Learning System for Classifying Healthcare Sensor Data](https://ieeexplore.ieee.org/abstract/document/9765749/).\\
+* A Scalable and Transferable Federated Learning System for Classifying Healthcare Sensor Data.\\
   IEEE Journal of Biomedical and Health Informatics (JBHI). 2022. \\
   Le, Sun, **Jin Wu**. 
-* [A Micro Neural Network for Healthcare Sensor Data Stream Classification in Sustainable and Smart Cities](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2022/4270295). \\
+* A Micro Neural Network for Healthcare Sensor Data Stream Classification in Sustainable and Smart Cities. \\
   Computational Intelligence and Neuroscience. 2022. \\
   **Jin Wu**, Le Sun, Dandan Peng, Siuly Siuly.
 
 🔝 Selected Awards
 ======
 
-* Interdisciplinary Research Project of the School of Computer Science and Technology, East China Normal University, **Leader**, (2024.06 - 2025.06).  
-  计算机科学与技术学院学科交叉研究项目, 华东师范大学, 负责人, 2024. 
-* Doctoral Research Innovation Fund of the School of Computer Science and Technology, East China Normal University, **Leader**, (2024.06 - 2024.10).  
-  计算机科学与技术学院博士生科研创新基金项目, 华东师范大学, 负责人, 2024.
-* Outstanding Graduate, Nanjing University of Information Science & Technology, 2023.  
-  优秀毕业生, 南京信息工程大学, 2023.
-* First Prize Scholarship, Nanjing University of Information Science & Technology, 2022 & 2023.  
-  学业奖学金一等奖, 南京信息工程大学, 2022 & 2023.
-* Triple A postgraduate Student, Nanjing University of Information Science & Technology, 2022 & 2023.  
-  三好研究生, 南京信息工程大学, 2022 & 2023.
-* National Scholarship for Postgraduates, 2022.  
-  研究生国家奖学金, 2022.
-
+* Interdisciplinary Research Project of the School of Computer Science and Technology,\\
+  East China Normal University, **Leader**, (2024.06 - 2025.06).  
+* Doctoral Research Innovation Fund of the School of Computer Science and Technology, \\
+  East China Normal University, **Leader**, (2024.06 - 2024.10).  
   
 💬 Invited Talks
 ======
-* A Cognitive Diagnosis Framework for Student Ability Assessment Based on Meta-Continual Learning, In [EITCE 2024](/files/EITCE_2024.pdf).  [[slide](/files/EITCE_2024_ppt.pdf)]
-  (**<font color="red">Best Oral Award, Only 2 people</font>**)
-* The Review of Attention Mechanism: From Attention to Transformer, Bert. [[slide](/files/attention.pdf)]
-* The Overview of Cognitive Diagnosis. [[slide](/files/Cognitive_Diagnosis_Review.pdf)]
+* [Invited Talk@EITCE 2024](), [(**<font color="red">Best Oral Award, Only 2 people</font>**)](/files/EITCE_2024.pdf)\\
+  A Cognitive Diagnosis Framework for Student Ability Assessment Based on Meta-Continual Learning.
 
 
 🖊️ Professional Services
@@ -65,7 +54,4 @@ Currently, my main research area lies in studying the **Intelligent Education**,
 * Reviewer for **Scientific Reports**.
 * Reviewer for **Health Information Science and Systems**.
 
----
-<center><sub>Visitor distribution </sub></center>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2mxLwMVMrKf2BSMPp4oBVkOUXHvYdciz_cCmTTPn7Nk&cl=ffffff&w=a"></script>
