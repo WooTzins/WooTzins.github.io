@@ -4,7 +4,7 @@ permalink: /misc/
 author_profile: true
 ---
 
-![image](https://github.com/user-attachments/assets/6eb3511b-d0eb-441e-b4e9-7702d3c314f3) Publications
+Publications
 ======
 <sub>\* means equal contribution. </sub>
 
