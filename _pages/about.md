@@ -31,6 +31,7 @@ Related Talks & Presentations
 
 Professional Services
 ======
+* Reviewer for **The Pacific Rim International Conference on Artificial Intelligence (PRICAI)**.
 * Reviewer for **IEEE International Conference on Acoustics, Speech, and Signal Processing ([ICASSP](./files/Reviewer_ICASSP.pdf))**.
 * Reviewer for **Journal of Grid Computing**.
 * Reviewer for **Scientific Reports**.
