@@ -9,8 +9,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "Tools"
+    url: /tools/
           
   # - title: "中文"
   #   url: /chinese/
