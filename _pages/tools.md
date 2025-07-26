@@ -16,7 +16,7 @@ AES： <a href="https://github.com/Chunngai/aes-papers">aes-papers</a> &nbsp;&nb
 ======
 😶‍🌫️ Paper Reading： <a href="https://glarity.app/zh-CN">Glarity</a> &nbsp;&nbsp; <a href="https://immersivetranslate.com/zh-Hans/">沉浸式翻译 (双语对照网页翻译插件)</a> &nbsp;&nbsp; <a href="https://www.xljsci.com/editor/">小绿鲸文献阅读器</a> 
 
-🫨 Toolkit： <a href=https://quillbot.com/grammar-check>Quillbot</a> &nbsp;&nbsp; <a href="https://www.mathcha.io/">编辑数学公式并转latex</a> &nbsp;&nbsp; <a href="https://mathpix.com/pricing/all">Mathpix (公式图片转latex)</a> 
+🫨 Toolkit： <a href="https://quillbot.com/grammar-check">Quillbot</a> &nbsp;&nbsp; <a href="https://www.mathcha.io/">编辑数学公式并转latex</a> &nbsp;&nbsp; <a href="https://mathpix.com/pricing/all">Mathpix (公式图片转latex)</a> 
 
 😼 Icon Image： <a href="https://www.flaticon.com/">FLATICON</a> &nbsp;&nbsp; <a href="https://iconscout.com/">IconScout</a> &nbsp;&nbsp; <a href="https://www.emojiall.com/zh-hant">Emojiall</a> &nbsp;&nbsp; <a href="https://www.iconfont.cn/">iconfont</a>  
 
